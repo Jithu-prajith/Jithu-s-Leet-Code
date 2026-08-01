@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0035-search-insert-position) |
 | [1480-running-sum-of-1d-array](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -17,4 +18,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
