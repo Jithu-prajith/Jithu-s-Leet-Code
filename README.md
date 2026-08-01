@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0035-search-insert-position) |
 | [1480-running-sum-of-1d-array](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -22,4 +23,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0035-search-insert-position) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
