@@ -16,6 +16,7 @@
 ## Math
 |  |
 | ------- |
+| [2652-sum-multiples](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/2652-sum-multiples) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
