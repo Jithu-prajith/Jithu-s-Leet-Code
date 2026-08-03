@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0905-sort-array-by-parity) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
