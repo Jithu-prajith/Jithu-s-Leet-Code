@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0905-sort-array-by-parity) |
@@ -44,7 +45,12 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
