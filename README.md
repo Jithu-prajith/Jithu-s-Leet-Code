@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0905-sort-array-by-parity) |
@@ -53,4 +54,9 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
