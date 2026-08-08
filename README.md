@@ -12,6 +12,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/1480-running-sum-of-1d-array) |
@@ -55,6 +56,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0219-contains-duplicate-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
