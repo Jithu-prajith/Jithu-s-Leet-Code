@@ -37,6 +37,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0088-merge-sorted-array) |
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0219-contains-duplicate-ii) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
