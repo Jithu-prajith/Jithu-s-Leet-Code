@@ -66,4 +66,5 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
