@@ -70,6 +70,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0328-odd-even-linked-list](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
