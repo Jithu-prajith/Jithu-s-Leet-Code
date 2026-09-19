@@ -42,6 +42,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0088-merge-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
@@ -56,6 +57,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -70,6 +72,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
