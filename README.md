@@ -83,10 +83,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
