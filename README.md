@@ -79,4 +79,16 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0021-merge-two-sorted-lists) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Jithu-prajith/Jithu-s-Leet-Code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
